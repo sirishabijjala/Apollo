@@ -36,5 +36,13 @@ Add doctors using the Add Doctor form
 Use /list-doctor-with-filter endpoint to see all doctors
 
 
+Screenshots of the project
+1. List of doctors with filter application
+![Screenshot (115)](https://github.com/user-attachments/assets/7732c75a-27b2-4110-8fe5-3280ce85f7e1)
+2.Adding Doctor
+![Screenshot (115)](https://github.com/user-attachments/assets/162732c4-0c3e-4b86-b468-f6c61ee493af)
+
+
+
 
 
